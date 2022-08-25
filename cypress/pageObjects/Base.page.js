@@ -1,6 +1,6 @@
 class BasePage {
   static get url() {
-    return "";
+    return "/";
   }
 
   static visit() {
